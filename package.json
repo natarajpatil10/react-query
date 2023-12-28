@@ -1,0 +1,26 @@
+{
+    "name": "react-query",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@tanstack/react-query": "^5.8.6",
+        "@tanstack/react-query-devtools": "^5.8.9",
+        "axios": "^1.6.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.20.0"
+    },
+    "devDependencies": {
+        "buffer": "^6.0.3",
+        "parcel": "^2.10.3",
+        "process": "^0.11.10"
+    }
+}
